@@ -144,8 +144,7 @@ export { renderShoppingList, addToShoppingListEl };
 
 const currentPageURL = window.location.href;
 if (
-  currentPageURL ===
-  'https://vern-gora.github.io/project-test-pr0ject/shopping-list.html'
+  currentPageURL === 'https://bo1hdan.github.io/bookshelf/shopping-list.html'
 ) {
   renderShoppingList();
 }
